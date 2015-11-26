@@ -1,0 +1,30 @@
+{
+  "name": "has-ext",
+  "version": "1.0.0",
+  "description": "Check if a filepath has extension(s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torrottum/has-ext.git"
+  },
+  "keywords": [
+    "ext",
+    "extensions",
+    "file",
+    "path",
+    "detect",
+    "has"
+  ],
+  "author": "Tor Røttum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/torrottum/has-ext/issues"
+  },
+  "homepage": "https://github.com/torrottum/has-ext#readme",
+  "devDependencies": {
+    "ava": "^0.6.1"
+  }
+}
