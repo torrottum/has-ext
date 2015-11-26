@@ -2,7 +2,7 @@
 > Check if a filepath has extension(s)
 
 ## Install
-`$ npm install --save is-video`
+`$ npm install --save has-ext`
 
 ## Usage
 ```js

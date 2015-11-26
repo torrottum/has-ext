@@ -1,6 +1,6 @@
 {
   "name": "has-ext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a filepath has extension(s)",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "extensions",
     "file",
     "path",
+    "check",
     "detect",
     "has"
   ],
